@@ -14,3 +14,5 @@ print('czesc {}! Masz {} lat'.format(name, age))
 
 #%%
 
+type(True)
+# %%
